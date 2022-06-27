@@ -1,0 +1,101 @@
+baseURL = 'https://cafe-cooks.com/'
+languageCode = 'ja'
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+title = 'カフェ クック酢'
+author = "CAFE COOK酢"
+copyright = "CAFE COOK酢"
+#pygmentsCodeFences = true
+canonifyurls = true
+#paginate = 6
+theme = 'bootstrap-bp-hugo-theme'
+#theme = 'hugo-theme-cleanwhite'
+hasCJKLanguage = true
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"
+
+[Author]  
+  name = "CAFE COOK酢"
+
+[social]
+  twitter          = "CAFECOOKS"
+  instagram        = "cafecooks1125"
+  email            = "info@cafe-cooks.com"
+
+[params]
+  description = "カフェとごはん@野江内代"
+  #images = ["logo.jpg"]
+  #images = ["/images/2013/11/cropped-DSC_0736.jpg"]
+  # showPostSummary = true
+  # startPageColumns = true
+  # showListsGrouped = true
+  alwaysExpandMenu = true
+  # customDateFormat = "02.01.2006"
+  customDateFormat = "2006/01/01"
+  hideReadingTime = true
+  themeColor="blue" # dark, light, blue, do not set for bootstrap default
+  # js=["/js/test_site.js"]
+  # css=["/css/test_site.css"]
+  # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
+mainSections = ['posts']
+
+
+[menu]
+[[menu.main]]
+    identifier = 'about'
+    url = '/about/'
+    weight = 5
+
+[[menu.main]]
+    identifier = 'menu'
+    name = '料理・ドリンク'
+    url = '/menu/'
+    weight = 6
+
+[[menu.main]]
+    identifier = 'twitter'
+    #name = 'ツイッター'
+    pre = '<i class="fab fa-twitter"></i>'
+    url = 'https://twitter.com/cafecooks/'
+    weight = 50
+
+[[menu.main]]
+    identifier = 'instagram'
+    #name = 'インスタ'
+    pre = '<i class="fab fa-instagram"></i>'
+    url = 'https://www.instagram.com/cafecooks1125/'
+    weight = 51
+
+[[menu.main]]
+    identifier = 'blog'
+    name = 'ブログ'
+    url = '/posts/'
+    weight = 20
+
+[[menu.main]]
+    identifier = 'mya'
+    name = 'みゃー通信'
+    url = '/みゃー通信'
+    weight = 25
+
+[[menu.main]]
+    identifier = 'wifi'
+    name = 'wifi'
+    url = '/wifi-接続パスワード/'
+    weight = 30
+
+[[menu.main]]
+    identifier = 'mail'
+    name = ''
+    pre = '<i class="fa fa-envelope"></i>'
+    url = 'mailto:info@cafe-cooks.com'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

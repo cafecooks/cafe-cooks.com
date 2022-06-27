@@ -1,0 +1,53 @@
+// *-blue.css
+$primary:#337ab7;
+$secondary:#6c757d;
+$success:#28a745;
+$danger:#dc3545;
+$info:#17a2b8;
+$warning:#ffc107;
+$light:#f8f9fa;
+$dark:#6c757d;
+
+//$navbar-light-brand-color: #ffffff;
+//$navbar-light-color: #ffffff;
+//$navbar-light-color: #ffffff;
+//$navbar-light-hover-color: #ffffff;
+$navbar-brand-font-size: 3rem;
+$nav-link-font-size: 1.2rem;
+//$navbar-brand-height: 10rem;
+
+
+// Shared styles
+@import "main.scss";
+
+// Bootstrap
+@import "./bootstrap/bootstrap";
+
+// Shared styles overrides
+@import "main2.scss";
+
+.navbar-light {
+    background-color: rgba(0,0,0,.03)!important;
+}
+a.badge:hover { color: $body-bg; }
+
+//.navbar-collapse { background-color: #d1e8ff; }
+nav.navbar-light {
+    background-color: rgba(0,0,0,.03)!important;
+    background-image: url('/images/2013/11/cropped-DSC_0736.jpg');
+    height: 230px;
+    text-shadow: 2px 2px 1px #000;
+
+    .navbar-brand {
+        color: #ffffff;
+    }
+
+    .navbar-brand:hover {
+        color: #ffffff;
+    }
+
+    .nav-link {
+        color: #ffffff !important;
+        font-size: 1.5rem;
+    }
+}
