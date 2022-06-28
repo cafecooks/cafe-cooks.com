@@ -21,10 +21,10 @@ hasCJKLanguage = true
 [Author]  
   name = "CAFE COOK酢"
 
-[social]
-  twitter          = "CAFECOOKS"
-  instagram        = "cafecooks1125"
-  email            = "info@cafe-cooks.com"
+#[social]
+#  twitter          = "CAFECOOKS"
+#  instagram        = "cafecooks1125"
+#  email            = "info@cafe-cooks.com"
 
 [params]
   description = "カフェとごはん@野江内代"
@@ -71,8 +71,8 @@ mainSections = ['posts']
     weight = 51
 
 [[menu.main]]
-    identifier = 'blog'
-    name = 'ブログ'
+    identifier = 'posts'
+    name = 'おしらせなど'
     url = '/posts/'
     weight = 20
 
@@ -81,6 +81,18 @@ mainSections = ['posts']
     name = 'みゃー通信'
     url = '/みゃー通信'
     weight = 25
+
+[[menu.main]]
+    identifier = 'cooks_pad'
+    name = 'クック酢pad'
+    url = '/クック酢pad'
+    weight = 26
+
+[[menu.main]]
+    identifier = 'deco'
+    name = '飾りつけ'
+    url = '/deco'
+    weight = 27
 
 [[menu.main]]
     identifier = 'wifi'
