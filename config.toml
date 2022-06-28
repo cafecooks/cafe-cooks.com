@@ -21,10 +21,10 @@ hasCJKLanguage = true
 [Author]  
   name = "CAFE COOK酢"
 
-#[social]
-#  twitter          = "CAFECOOKS"
-#  instagram        = "cafecooks1125"
-#  email            = "info@cafe-cooks.com"
+[social]
+  twitter          = "CAFECOOKS"
+  instagram        = "cafecooks1125"
+  email            = "info@cafe-cooks.com"
 
 [params]
   description = "カフェとごはん@野江内代"
@@ -33,7 +33,8 @@ hasCJKLanguage = true
   # showPostSummary = true
   # startPageColumns = true
   # showListsGrouped = true
-  alwaysExpandMenu = true
+  #alwaysExpandMenu = true
+  alwaysExpandMenu = false
   # customDateFormat = "02.01.2006"
   customDateFormat = "2006/01/01"
   hideReadingTime = true
@@ -45,10 +46,10 @@ mainSections = ['posts']
 
 
 [menu]
-[[menu.main]]
-    identifier = 'about'
-    url = '/about/'
-    weight = 5
+#[[menu.main]]
+#    identifier = 'about'
+#    url = '/about/'
+#    weight = 5
 
 [[menu.main]]
     identifier = 'menu'
@@ -56,19 +57,19 @@ mainSections = ['posts']
     url = '/menu/'
     weight = 6
 
-[[menu.main]]
-    identifier = 'twitter'
-    #name = 'ツイッター'
-    pre = '<i class="fab fa-twitter"></i>'
-    url = 'https://twitter.com/cafecooks/'
-    weight = 50
-
-[[menu.main]]
-    identifier = 'instagram'
-    #name = 'インスタ'
-    pre = '<i class="fab fa-instagram"></i>'
-    url = 'https://www.instagram.com/cafecooks1125/'
-    weight = 51
+#[[menu.main]]
+#    identifier = 'twitter'
+#    #name = 'ツイッター'
+#    pre = '<i class="fab fa-twitter"></i>'
+#    url = 'https://twitter.com/cafecooks/'
+#    weight = 50
+#
+#[[menu.main]]
+#    identifier = 'instagram'
+#    #name = 'インスタ'
+#    pre = '<i class="fab fa-instagram"></i>'
+#    url = 'https://www.instagram.com/cafecooks1125/'
+#    weight = 51
 
 [[menu.main]]
     identifier = 'posts'
@@ -100,11 +101,11 @@ mainSections = ['posts']
     url = '/wifi-接続パスワード/'
     weight = 30
 
-[[menu.main]]
-    identifier = 'mail'
-    name = ''
-    pre = '<i class="fa fa-envelope"></i>'
-    url = 'mailto:info@cafe-cooks.com'
+#[[menu.main]]
+#    identifier = 'mail'
+#    name = ''
+#    pre = '<i class="fa fa-envelope"></i>'
+#    url = 'mailto:info@cafe-cooks.com'
 
 [markup]
   [markup.goldmark]

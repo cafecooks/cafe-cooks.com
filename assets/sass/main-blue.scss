@@ -7,13 +7,14 @@ $info:#17a2b8;
 $warning:#ffc107;
 $light:#f8f9fa;
 $dark:#6c757d;
+$font-family-sans-serif: "M PLUS 1p" !default;
 
 //$navbar-light-brand-color: #ffffff;
 //$navbar-light-color: #ffffff;
 //$navbar-light-color: #ffffff;
 //$navbar-light-hover-color: #ffffff;
-$navbar-brand-font-size: 3rem;
-$nav-link-font-size: 1.2rem;
+//$navbar-brand-font-size: 3rem;
+//$nav-link-font-size: 1.2rem;
 //$navbar-brand-height: 10rem;
 
 
@@ -34,20 +35,21 @@ a.badge:hover { color: $body-bg; }
 //.navbar-collapse { background-color: #d1e8ff; }
 nav.navbar-light {
     background-color: rgba(0,0,0,.03)!important;
-    background-image: url('/images/2013/11/cropped-DSC_0736.jpg');
-    height: 230px;
-    text-shadow: 2px 2px 1px #000;
+//    background-image: url('/images/2013/11/cropped-DSC_0736.jpg');
+//    height: 230px;
+//    text-shadow: 2px 2px 1px #000;
 
-    .navbar-brand {
-        color: #ffffff;
-    }
-
-    .navbar-brand:hover {
-        color: #ffffff;
-    }
-
-    .nav-link {
-        color: #ffffff !important;
-        font-size: 1.5rem;
-    }
+//    .navbar-brand {
+//        color: #ffffff;
+//    }
+//
+//    .navbar-brand:hover {
+//        color: #ffffff;
+//    }
+//
+//    .nav-link {
+//        color: #ffffff !important;
+//        font-size: 1.5rem;
+//    }
 }
+

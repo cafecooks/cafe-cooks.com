@@ -11,6 +11,8 @@ Twitter(毎日のメニューや営業時間の連絡など) [https://twitter.co
 
 Instagram(毎日変わる一品の写真など) [https://www.instagram.com/cafecooks1125/](https://www.instagram.com/cafecooks1125/)
 
+※ Twitter から Instagram に自動投稿しています。
+
 メニュー
 ----
 
@@ -24,7 +26,7 @@ Instagram(毎日変わる一品の写真など) [https://www.instagram.com/cafec
 〒536-0006 大阪市城東区野江4-10-1<br>
 大阪メトロ谷町線 野江内代駅1番出口の真横です。
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.8321865966955!2d135.5367334151636!3d34.70941238043217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e124a25573eb%3A0x98a4ab37d6b5f457!2z44Kr44OV44KnIOOCr-ODg-OCr-mFog!5e0!3m2!1sja!2sjp!4v1656117820062!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.8321865966955!2d135.5367334151636!3d34.70941238043217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e124bb47ed31%3A0xf9afc76f0d450c5c!2z44CSNTM0LTAwMTMg5aSn6Ziq5bqc5aSn6Ziq5biC6YO95bO25Yy65YaF5Luj55S677yR5LiB55uu77yY4oiS77yY!5e0!3m2!1sja!2sjp!4v1656415753985!5m2!1sja!2sjp" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 営業時間
@@ -34,7 +36,7 @@ OPEN PM5:00ごろ〜PM10:00(ラストオーダーPM9:30) ※ 2022/6/25 現在
 
 定休日 月曜日(祝日は営業します。翌火曜日が休みになります。)
 
-定休日は、[ホームページ](//cafe-cooks.com/tags/open_hours/)や [twitter](https://twitter.com/cafecooks "https://twitter.com/cafecooks") でもご案内しております。
+定休日は、[おしらせ](/posts/)や [twitter](https://twitter.com/cafecooks "https://twitter.com/cafecooks") でもご案内しております。
 
 電話番号
 ----
@@ -51,7 +53,7 @@ info@cafe-cooks.com
 猫
 -
 
-[みゃーみゃーと黒豆](/tags/%e3%81%bf%e3%82%83%e3%83%bc%e9%80%9a%e4%bf%a1/)
+[みゃーみゃーと黒豆](/みゃー通信/)
 
 アソシエイト、アフィリエイト
 --------------

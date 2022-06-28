@@ -47,7 +47,7 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-sans-serif: "M PLUS 1p";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
@@ -2857,7 +2857,6 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  font-size: 1.2rem;
   color: #337ab7;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; }
@@ -2948,15 +2947,13 @@ textarea.form-control-lg {
     justify-content: space-between; }
 
 .navbar-brand {
-  padding-top: -1rem;
-  padding-bottom: -1rem;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: calc(1.425rem + 2.1vw);
+  font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap; }
-  @media (min-width: 1200px) {
-    .navbar-brand {
-      font-size: 3rem; } }
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
@@ -7779,14 +7776,4 @@ a.badge:hover {
   color: #fff; }
 
 nav.navbar-light {
-  background-color: rgba(0, 0, 0, 0.03) !important;
-  background-image: url("/images/2013/11/cropped-DSC_0736.jpg");
-  height: 230px;
-  text-shadow: 2px 2px 1px #000; }
-  nav.navbar-light .navbar-brand {
-    color: #ffffff; }
-  nav.navbar-light .navbar-brand:hover {
-    color: #ffffff; }
-  nav.navbar-light .nav-link {
-    color: #ffffff !important;
-    font-size: 1.5rem; }
+  background-color: rgba(0, 0, 0, 0.03) !important; }
