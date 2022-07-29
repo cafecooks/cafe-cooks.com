@@ -11,6 +11,7 @@ canonifyurls = true
 theme = 'bootstrap-bp-hugo-theme'
 #theme = 'hugo-theme-cleanwhite'
 hasCJKLanguage = true
+timeZone = 'Asia/Tokyo'
 
 [permalinks]
     posts = "/:year/:month/:slug/"
@@ -36,7 +37,7 @@ hasCJKLanguage = true
   #alwaysExpandMenu = true
   alwaysExpandMenu = false
   # customDateFormat = "02.01.2006"
-  customDateFormat = "2006/01/01"
+  customDateFormat = "2006/01/02"
   hideReadingTime = true
   themeColor="blue" # dark, light, blue, do not set for bootstrap default
   # js=["/js/test_site.js"]

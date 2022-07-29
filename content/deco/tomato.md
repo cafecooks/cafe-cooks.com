@@ -2,7 +2,6 @@
 title: 'トマトを植えました'
 date: Sat, 04 Jun 2016 00:14:26 +0000
 draft: false
-tags: ['ブログ']
 ---
 
 ![dsc_0369.jpg](//cafe-cooks.com/images/2016/06/dsc_0369-e1464998976765-576x1024.jpg)

@@ -2,7 +2,6 @@
 title: 'SPECIAL MENU'
 date: Sat, 06 May 2017 23:14:34 +0000
 draft: false
-tags: ['ブログ']
 ---
 
 ![](/images/2017/05/wp-1494111860229-1024x576.jpg)

@@ -2,7 +2,6 @@
 title: 'テイクアウト&デリバリーアプリ「menu」でも注文できます'
 date: Tue, 04 May 2021 04:54:07 +0000
 draft: false
-tags: ['ブログ']
 ---
 
 [クック酢の menu ページ](https://me.nu/s61234)からご注文いただけます。
