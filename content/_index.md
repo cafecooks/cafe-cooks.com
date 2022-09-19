@@ -4,6 +4,12 @@ date: Thu, 27 Oct 2016 15:38:13 +0000
 draft: false
 ---
 
+お知らせ
+--------
+
+{{< tweet user="CAFECOOKS" id="11571694668878082049" >}}
+
+
 SNS
 ---
 
