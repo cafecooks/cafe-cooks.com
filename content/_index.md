@@ -7,7 +7,9 @@ draft: false
 お知らせ
 --------
 
-{{< tweet user="CAFECOOKS" id="11571694668878082049" >}}
+9/19(月・祝) 正午現在、お店は開ける予定にしています。
+
+[@cafecooks](https://twitter.com/CAFECOOKS/status/1571694668878082049)でも状況を更新しています。
 
 
 SNS
