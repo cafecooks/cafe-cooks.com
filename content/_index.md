@@ -4,14 +4,6 @@ date: Thu, 27 Oct 2016 15:38:13 +0000
 draft: false
 ---
 
-お知らせ
---------
-
-9/19(月・祝) 正午現在、お店は開ける予定にしています。
-
-[@CAFECOOKS](https://twitter.com/CAFECOOKS/)でも状況を更新しています。
-
-
 SNS
 ---
 
