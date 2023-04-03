@@ -7,25 +7,24 @@ draft: false
 お知らせ
 --------
 
-2023/1/29(日)臨時休業させていただきます。
+2023/4/4(火) から、持ち帰りとデリバリーのみ営業しております。
 
-ご不便をおかけして申し訳ございません。
+* [Uber](https://www.order.store/store/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%AF%E3%83%83%E3%82%AF%E9%85%A2/zBG-F3c_Ql-QmBleJkR7bA) 
+* [MENU](https://me.nu/s61234)
 
 SNS
 ---
 
-Twitter(毎日のメニューや営業時間の連絡など) [https://twitter.com/CAFECOOKS](https://twitter.com/CAFECOOKS)
+Twitter [https://twitter.com/CAFECOOKS](https://twitter.com/CAFECOOKS)
 
-Instagram(毎日変わる一品の写真など) [https://www.instagram.com/cafecooks1125/](https://www.instagram.com/cafecooks1125/)
-
-※ Twitter から Instagram に自動投稿しています。
+Instagram [https://www.instagram.com/cafecooks1125/](https://www.instagram.com/cafecooks1125/)
 
 メニュー
 ----
 
-カフェメニューから晩ごはんセット、居酒屋メニュー、また、コーヒー、紅茶、酢ジュースなどのソフトドリンク、ビール、ワイン、地酒などのアルコール類も豊富に取り揃えております。
+現在、持ち帰り(テイクアウト)とデリバリーのみの営業としております。
 
-[メニューはこちらから](/menu/)
+[持ち帰り、デリバリーメニュー](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdYHhX7j9bcJDhSTMwBN-88uBaAt9uPCERDW7F50k8yB8jUwctLOMioUeoAResOzJObNhjmZavlJ27/pubhtml?gid=0&single=true)
 
 住所・アクセス
 -------
@@ -39,18 +38,16 @@ Instagram(毎日変わる一品の写真など) [https://www.instagram.com/cafec
 営業時間
 ----
 
-OPEN PM5:00ごろ〜PM10:00(ラストオーダーPM9:30) ※ 2022/6/25 現在
+営業時間 11:30-22:00 (2023/4/4 現在)
 
-定休日 月曜日(祝日は営業します。翌火曜日が休みになります。)
-
-定休日は、[おしらせ](/posts/)や [twitter](https://twitter.com/cafecooks "https://twitter.com/cafecooks") でもご案内しております。
+定休日 月曜日
 
 電話番号
 ----
 
-[06-6932-4663](TEL:06-6932-4663) (予約など)
+[06-6932-4663](TEL:06-6932-4663) 
 
-セールスについては、090-1158-9574 (守屋) にご連絡ください。
+セールスにつきましては、お客様からの注文の妨げになりますので、E-mail 等でコンタクトしてください。
 
 E-mail
 ------
