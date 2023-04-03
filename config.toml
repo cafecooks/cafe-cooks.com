@@ -52,11 +52,11 @@ mainSections = ['posts']
 #    url = '/about/'
 #    weight = 5
 
-[[menu.main]]
-    identifier = 'menu'
-    name = '料理・ドリンク'
-    url = '/menu/'
-    weight = 6
+#[[menu.main]]
+#    identifier = 'menu'
+#    name = '料理・ドリンク'
+#    url = '/menu/'
+#    weight = 6
 
 #[[menu.main]]
 #    identifier = 'twitter'
@@ -72,11 +72,11 @@ mainSections = ['posts']
 #    url = 'https://www.instagram.com/cafecooks1125/'
 #    weight = 51
 
-[[menu.main]]
-    identifier = 'posts'
-    name = 'おしらせなど'
-    url = '/posts/'
-    weight = 20
+#[[menu.main]]
+#    identifier = 'posts'
+#    name = 'おしらせなど'
+#    url = '/posts/'
+#    weight = 20
 
 [[menu.main]]
     identifier = 'mya'
