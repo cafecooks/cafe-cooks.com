@@ -20,13 +20,6 @@ draft: false
 * 4/17(月)
 * 4/24(月)
 
-SNS
----
-
-Twitter [https://twitter.com/CAFECOOKS](https://twitter.com/CAFECOOKS)
-
-Instagram [https://www.instagram.com/cafecooks1125/](https://www.instagram.com/cafecooks1125/)
-
 メニュー
 ----
 
