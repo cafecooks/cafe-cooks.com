@@ -7,12 +7,13 @@ draft: false
 お知らせ
 --------
 
-2023/5/9(火) から、12:00-15:00 の間、(店内)ワンプレートランチを始めます。
+お昼のワンプレートランチは、都合により一旦中断しております。
 
-それ以降の時間帯は、もうしばらく、持ち帰りとデリバリーの営業となる予定です。
+夜の店内飲食は一部をセルフサービスにして再開しております。
+
+持ち帰り、デリバリーは Uber で注文可能です。
 
 * [Uber](https://www.order.store/store/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%AF%E3%83%83%E3%82%AF%E9%85%A2/zBG-F3c_Ql-QmBleJkR7bA) 
-* [MENU](https://me.nu/s61234)
 
 5月の店休日は以下のとおりです。
 
@@ -24,9 +25,8 @@ draft: false
 メニュー
 ----
 
-現在、持ち帰り(テイクアウト)とデリバリーのみの営業としております。
+店内メニューは AutoReserve の [CAFE COOKS](https://autoreserve.com/ja/restaurants/9SbxZ3pcbLPo9TDHgSQ2) をごらんください。お料理はテーブル上のメニュー表、または、QR コードから注文することができます。
 
-[持ち帰り、デリバリーメニュー](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdYHhX7j9bcJDhSTMwBN-88uBaAt9uPCERDW7F50k8yB8jUwctLOMioUeoAResOzJObNhjmZavlJ27/pubhtml?gid=0&single=true)
 
 住所・アクセス
 -------
