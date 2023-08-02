@@ -97,6 +97,12 @@ mainSections = ['posts']
     weight = 27
 
 [[menu.main]]
+    identifier = 'review'
+    name = 'レビュー記事'
+    url = '/review'
+    weight = 28
+
+[[menu.main]]
     identifier = 'wifi'
     name = 'wifi'
     url = '/wifi-接続パスワード/'
